@@ -4,7 +4,7 @@ title: Skills
 permalink: /skill/
 ---
 
-# Certifications
+## Certifications
 
 **Critical Thinking for More Effective Communication (2021)**
 
@@ -14,14 +14,14 @@ permalink: /skill/
 
 **Social Media Marketing & Digital Marketing Course (2020)**
 
-# Skills
+## Skills
 
-## Software Deveopment
+### Software Deveopment
 *Desktop/WEB applications, Integrations (e.g. LINE Messaging Bot), API*
 #### Programing Language
 - Javascript, Python, VBA
 
-## Web/Data analytics
+### Web/Data analytics
 #### Web Analytics
 - Google Analytics
 - Google Tag Manager
@@ -29,7 +29,7 @@ permalink: /skill/
 - SEO
 - AB Test (ABTasty / Google Optimize)
 
-## Data Management
+### Data Management
 #### Data Managing/Engineering
 - SQL
 - Data processing
@@ -37,7 +37,7 @@ permalink: /skill/
 - Google Data Studio
 - Microsoft Power BI
 
-## Project Management
+### Project Management
 #### Robotic Process Automation (RPA)
 - Selenium
 - Microsoft Power Automate
