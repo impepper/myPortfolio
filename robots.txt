@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/myPortfolio/sitemap.xml
+Sitemap: https://impepper.github.io/myPortfolio/sitemap.xml
