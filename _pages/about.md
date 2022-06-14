@@ -38,8 +38,8 @@ permalink: /about/
 - Optimizing SEO/Data Tracking Schema collecting owned data for further analyzing
 - Create synergies between inside and outside websites in data synchronizations
 
-## Freelacing
-*One to build and integrate digital systems for business innovations
+## Freelace
+*One to build and integrate digital systems for business innovations.*
 
 - To build eCommerce website and desktop tools managing product data (external data sources) 
 - To build mobile app and managing web consols 
