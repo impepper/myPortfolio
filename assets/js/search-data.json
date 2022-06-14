@@ -40,7 +40,7 @@
   
       ,"page1": {
           "title": "CV",
-          "content": "EDUCATION . Gemological Institute of America | 東海大學 (Sep.1990 ~ Jun.1994) | . WORK EXPERIENCE . Chanel Inc. (Taiwan) . IT Manager - Client Solution &amp; Digital . One to support frontline the suitable ecosystems and find potential digital activaions accordingly. . To design and build the digital ecosystem architect on LINE/SFMC for CRM purpose and potential business activation ideas | To cooperate with regional colleagues launching newly activations | To utilize functional roles on each sub-systems | . Loreal Taiwan . Ditital Product Solution Manager . One to build OMNI ecosystems as turnkey and find potential buiness activaions accordingly. . To manage and build the digital ecosystem architect for potential business activation ideas | To define, build, and utilize functional roles on each sub-system | To find business opportunities though existed systems or implementing new technologies/ideas | Country key contact with Global/Region on GA/GTM Tagging | . Project Manager . To build/upgrading the online eCommerce website solution as the brand/local integrations needs | To monitor and enhance the online sales activity and performance | To ensure user experience and all eCommerce activities are consistent with the brand sense of purpose | Collect and connect working knowledge on the e-retailers | Optimizing SEO/Data Tracking Schema collecting owned data for further analyzing | Create synergies between inside and outside websites in data synchronizations | . Freelace . One to build and integrate digital systems for business innovations. . To build eCommerce website and desktop tools managing product data (external data sources) | To build mobile app and managing web consols | To build and maintain customer/product/sales systems for small business | . TechArt Center, Taipei National University of the Arts . Engineer . To support exhibition planning | Code rewriting | Exhibition space planning | To support annual projects and general affairs | .",
+          "content": "EDUCATION . Gemological Institute of America | 東海大學 (Sep.1990 ~ Jun.1994) | . WORK EXPERIENCE . Chanel Inc. (Taiwan) . Jun. 2021 - Jan. 2022 . IT Manager - Client Solution &amp; Digital . One to support frontline the suitable ecosystems and find potential digital activaions accordingly. . To design and build the digital ecosystem architect on LINE/SFMC for CRM purpose and potential business activation ideas | To cooperate with regional colleagues launching newly activations | To utilize functional roles on each sub-systems | . Loreal Taiwan . May. 2017 - Jun. 2021 . Ditital Product Solution Manager . One to build OMNI ecosystems as turnkey and find potential buiness activaions accordingly. . To manage and build the digital ecosystem architect for potential business activation ideas | To define, build, and utilize functional roles on each sub-system | To find business opportunities though existed systems or implementing new technologies/ideas | Country key contact with Global/Region on GA/GTM Tagging | . Project Manager . To build/upgrading the online eCommerce website solution as the brand/local integrations needs | To monitor and enhance the online sales activity and performance | To ensure user experience and all eCommerce activities are consistent with the brand sense of purpose | Collect and connect working knowledge on the e-retailers | Optimizing SEO/Data Tracking Schema collecting owned data for further analyzing | Create synergies between inside and outside websites in data synchronizations | . Freelace . Jun. 2011 - May. 2017 . One to build and integrate digital systems for business innovations. . To build eCommerce website and desktop tools managing product data (external data sources) | To build mobile app and managing web consols | To build and maintain customer/product/sales systems for small business | . TechArt Center, Taipei National University of the Arts . Jan. 2007 - Jun. 2011 . Engineer . To support exhibition planning | Code rewriting | Exhibition space planning | To support annual projects and general affairs | .",
           "url": "https://impepper.github.io/myPortfolio/about/",
           "relUrl": "/about/",
           "date": ""
@@ -51,6 +51,17 @@
   
 
   
+      ,"page3": {
+          "title": "Projects",
+          "content": "Customer LTV Analysis . Cutomer Lifetime Vlue calculation . Data analysis from pharmacies | Customer Lifetime Value calculation using Beta-Geometric / Negative Binomial Distribution (BG/NBD) model | Segmentation using Machine Learning | . OMO Ecosystem Architect . Define and build the digital ecosystem architect for the OMO market strategies . Consolidate existing sub-systems | Standardize data schema &amp; tracking tags | Define functional roles to meeting possible business models such as affiliation &amp; conversational / Social commerce | . RPA - Daily Sale Repor . RPA to generate daily sale reports . Tools used: Katalon Studio, Selenium, Microsoft Power Automate | To scrape sales numbers from various endpotints and consolidate into existed excel file | Endpoints including: website backend consoles / FTP / Intranet Files | . Brand eCommerce websites . Brand e-com site buildings . Lead directly on 4 SFCC site buildings in LUXE, Lroeal | Utilized GA/GTM configurations on 4 brand websites per global guideline | Monitoring and improving site performance &amp; SEO | Setup 20+ A/B Tests | . QR APP . Content Management Solution for marketers delivering Campaign through QRCode . App alike UI/UX for QR Code viewers | Including APP and Website (Front-end) and Back-end developing | . Mobile APP - ProcessingLab . A simple simulator for artists using Processing language on iOS devices . Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts. .",
+          "url": "https://impepper.github.io/myPortfolio/projects/",
+          "relUrl": "/projects/",
+          "date": ""
+      }
+      
+  
+
+  
   
 
   
@@ -59,9 +70,9 @@
   
 
   
-      ,"page6": {
+      ,"page7": {
           "title": "Skills",
-          "content": "Certifications . Critical Thinking for More Effective Communication (2021) . fierce CONVERSATIONS (2021) . Python for Machine Learning and Data Science Bootcamp (2021) . Social Media Marketing &amp; Digital Marketing Course (2020) . Skills . Software Deveopment . Desktop/WEB applications, Integrations (e.g. LINE Messaging Bot), API . Programing Language . Javascript, Python, VBA | . Web/Data analytics . Web Analytics . Google Analytics | Google Tag Manager Website Optimizing . | SEO | AB Test (ABTasty / Google Optimize) | . Data Management . Data Managing/Engineering . SQL | Data processing Data Visualization . | Google Data Studio | Microsoft Power BI | . Project Management . Robotic Process Automation (RPA) . Selenium | Microsoft Power Automate | Katalon Studio | AutoIt | UIPath Software Project Management . | JIRA | Confluence | Airtable | .",
+          "content": "Certifications . Critical Thinking for More Effective Communication (2021) . | fierce CONVERSATIONS (2021) . | Python for Machine Learning and Data Science Bootcamp (2021) . | Social Media Marketing &amp; Digital Marketing Course (2020) . | . Skills . Software Deveopment . Desktop/WEB applications, Integrations (e.g. LINE Messaging Bot), API . Programing Language . Javascript, Python, VBA | . Web/Data analytics . Web Analytics . Google Analytics | Google Tag Manager | . Website Optimizing . SEO | AB Test (ABTasty / Google Optimize) | . Data Management . Data Managing/Engineering . SQL | Data processing | . Data Visualization . Google Data Studio | Microsoft Power BI | . Project Management . Robotic Process Automation (RPA) . Selenium | Microsoft Power Automate | Katalon Studio | AutoIt | UIPath | . Software Project Management . JIRA | Confluence | Airtable | .",
           "url": "https://impepper.github.io/myPortfolio/skill/",
           "relUrl": "/skill/",
           "date": ""
@@ -81,7 +92,7 @@
   
 
   
-      ,"page11": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://impepper.github.io/myPortfolio/robots.txt",
