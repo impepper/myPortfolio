@@ -41,7 +41,6 @@ minima:
   social_links:
 #    twitter: fastdotai
     github: impepper
-    linkedin : chihong-pepper-lin-87b75671
 
 # Set this to true to get LaTeX math equation support
 use_math: 
