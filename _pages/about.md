@@ -4,22 +4,22 @@ title: CV
 permalink: /about/
 ---
 
-# EDUCATION
+## EDUCATION
 
 - Gemological Institute of America 
 - 東海大學 (Sep.1990 ~ Jun.1994)
 
-# WORK EXPERIENCE
+## WORK EXPERIENCE
 
 
-## Chanel Inc. (Taiwan)
+### Chanel Inc. (Taiwan)
 #### IT Manager - Client Solution & Digital
 *One to support frontline the suitable ecosystems and find potential digital activaions accordingly.*
 - To design and build the digital ecosystem architect on LINE/SFMC for CRM purpose and potential business activation ideas
 - To cooperate with regional colleagues launching newly activations 
 - To utilize functional roles on each sub-systems
 
-## Loreal Taiwan
+### Loreal Taiwan
 
 #### Ditital Product Solution Manager
 
@@ -38,14 +38,14 @@ permalink: /about/
 - Optimizing SEO/Data Tracking Schema collecting owned data for further analyzing
 - Create synergies between inside and outside websites in data synchronizations
 
-## Freelace
+### Freelace
 *One to build and integrate digital systems for business innovations.*
 
 - To build eCommerce website and desktop tools managing product data (external data sources) 
 - To build mobile app and managing web consols 
 - To build and maintain customer/product/sales systems for small business
 
-## TechArt Center, Taipei National University of the Arts
+### TechArt Center, Taipei National University of the Arts
 #### Engineer
 
 - To support exhibition planning
