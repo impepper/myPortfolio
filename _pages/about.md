@@ -13,6 +13,7 @@ permalink: /about/
 
 
 ### Chanel Inc. (Taiwan)
+`Jun. 2021 - Jan. 2022`
 #### IT Manager - Client Solution & Digital
 *One to support frontline the suitable ecosystems and find potential digital activaions accordingly.*
 - To design and build the digital ecosystem architect on LINE/SFMC for CRM purpose and potential business activation ideas
@@ -20,7 +21,7 @@ permalink: /about/
 - To utilize functional roles on each sub-systems
 
 ### Loreal Taiwan
-
+`May. 2017 - Jun. 2021`
 #### Ditital Product Solution Manager
 
 *One to build OMNI ecosystems as turnkey and find potential buiness activaions accordingly.*
@@ -39,6 +40,8 @@ permalink: /about/
 - Create synergies between inside and outside websites in data synchronizations
 
 ### Freelace
+`Jun. 2011 - May. 2017`
+
 *One to build and integrate digital systems for business innovations.*
 
 - To build eCommerce website and desktop tools managing product data (external data sources) 
@@ -46,6 +49,7 @@ permalink: /about/
 - To build and maintain customer/product/sales systems for small business
 
 ### TechArt Center, Taipei National University of the Arts
+`Jan. 2007 - Jun. 2011`
 #### Engineer
 
 - To support exhibition planning
