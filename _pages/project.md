@@ -4,8 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-### Customer LTV Analysis
-> Cutomer Lifetime Vlue calculation
+### Cutomer Lifetime Vlue calculation
 
 - Data analysis from pharmacies
 - Customer Lifetime Value calculation using Beta-Geometric / Negative Binomial Distribution (BG/NBD) model
@@ -18,7 +17,7 @@ permalink: /projects/
 - Standardize data schema & tracking tags
 - Define functional roles to meeting possible business models such as affiliation & conversational / Social commerce
 
-### RPA - Daily Sale Repor
+### RPA - Daily Sale Report
 > RPA to generate daily sale reports
 
 - Tools used: Katalon Studio, Selenium, Microsoft Power Automate
